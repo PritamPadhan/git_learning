@@ -1,6 +1,6 @@
 # git_learning
 <br>
-Author : Pritam Padhan
+Author : Pritam
 <br>
 Learning git from scratch
 <br>
