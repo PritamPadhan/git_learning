@@ -15,3 +15,5 @@ To clone the remote repo, where we want to do the modifications, we run the comm
 To stage all untracked files(newly added files) and modified files, we run the command: git add .
 <br>
 To commit all the changes, we run command: git commit -m "message"
+<br>
+To do the final push into the remote repo, use command: git push origin main
