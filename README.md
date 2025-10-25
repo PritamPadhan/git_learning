@@ -33,3 +33,4 @@ Why we need branch?
 2. To rename the branch name, command: git branch -M main
 3. To go one branch name to diff branch name: git checkout <branch name>
 4. To create a new branch, command: git checkout -b <branch name>
+5. To delete a branch, command: git checkout -d <branch name>
