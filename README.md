@@ -1,6 +1,6 @@
 # git_learning
 <br>
-Author : Pritam
+Author : Pritam Padhan
 <br>
 Learning git from scratch
 <br>
@@ -17,3 +17,9 @@ To stage all untracked files(newly added files) and modified files, we run the c
 To commit all the changes, we run command: git commit -m "message"
 <br>
 To do the final push into the remote repo, use command: git push origin main
+<br>
+Before push, you have to do the following set up, it's one time set up.
+<br>
+git config --global user.name "user github account name"
+<br>
+git config --global user.email "user github account password"
