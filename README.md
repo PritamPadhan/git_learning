@@ -39,3 +39,6 @@ Merging code:
 1. To check the difference: git diff <branch name>
 2. To merging the code: git merge main
 
+Pull request:
+
+To bring the changes from remote repo to local, command : git pull origin main
