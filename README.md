@@ -34,3 +34,8 @@ Why we need branch?
 3. To go one branch name to diff branch name: git checkout <branch name>
 4. To create a new branch, command: git checkout -b <branch name>
 5. To delete a branch, command: git checkout -d <branch name>
+
+Merging code:
+1. To check the difference: git diff <branch name>
+2. To merging the code: git merge main
+
